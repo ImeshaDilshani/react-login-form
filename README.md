@@ -2,6 +2,9 @@
 
 This is a simple React login form component that User-friendly login interface.
 
+![image](https://github.com/ImeshaDilshani/react-login-form/assets/93858302/b0824325-9aa5-4d16-a52b-226d25e9324c)
+
+
 ## Features
 
 - User-friendly login interface.
