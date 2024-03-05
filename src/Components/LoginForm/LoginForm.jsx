@@ -17,11 +17,9 @@ function LoginForm() {
                 <FaLock className='icon'/>
             </div>
             <div className="remember-forgot">
-                <label htmlFor="">
-                    <input type="checkbox" />
-                    Remember me
-                    <a href="#">Forgot password?</a>
-                </label>
+                <label><input type="checkbox" />Remember me</label>
+                <a href="#">Forgot password?</a>
+                
             </div>
             <button type='submit'>Login</button>
             <div className="register-link">
