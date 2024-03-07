@@ -30,5 +30,8 @@ To use this login form component in your React application, follow these steps:
 
 If you find any issues with the login form component or would like to contribute to its development, please feel free to open an issue or submit a pull request on GitHub.
 
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
 
 
